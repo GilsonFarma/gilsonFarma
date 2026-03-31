@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou Gilson Pereira 👋
 
-<!--
-**GilsonFarma/gilsonFarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em transição para a área de tecnologia, com foco em **Suporte de TI** e **Desenvolvimento Web**.
 
-Here are some ideas to get you started:
+## Sobre mim
+- 🎓 Cursando ADS
+- 💻 Estudando HTML, CSS, JavaScript, Git e GitHub
+- 🔎 Buscando oportunidade de estágio em suporte ou desenvolvimento
+- 📍 Pernambuco, Brasil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias em aprendizado
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
+- PHP
+- Python
+
+## Projetos em destaque
+- **Classificador de Heróis** – prática de lógica, DOM e JavaScript
+- **Portfólio pessoal** – projeto para apresentar minha evolução em desenvolvimento web
+
+## Contato
+- LinkedIn: [gilsondevjr](https://www.linkedin.com/in/gilsondevjr)
